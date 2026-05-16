@@ -1,0 +1,30 @@
+Sample 1
+Actual Sentiment: neutral
+Predicted Sentiment: neutral
+
+--------------------------
+
+Sample 2
+Actual Sentiment: positive
+Predicted Sentiment: positive
+
+--------------------------
+
+Sample 3
+Actual Sentiment: neutral
+Predicted Sentiment: neutral
+
+--------------------------
+
+Sample 4
+Actual Sentiment: negative
+Predicted Sentiment: negative
+
+--------------------------
+
+Sample 5
+Actual Sentiment: negative
+Predicted Sentiment: negative
+
+--------------------------
+
